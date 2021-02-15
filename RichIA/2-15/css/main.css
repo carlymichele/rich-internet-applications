@@ -1,0 +1,42 @@
+.userlogin-service-tbl{
+  width: 300px;
+  height: 200px;
+  padding: 5px;
+  border: 1px black solid;
+  border-collapse: collapse;
+}
+
+.userlogin-service-tbl-tr{
+  height: 44px;
+}
+
+tr{
+  border: 1px;
+}
+
+.userlogin-service-inputtext{
+  height: 30px;
+  background-color: darkgrey;
+  border: 1px outset red;
+  color: saddlebrown;
+}
+
+.m-b5{
+  margin-bottom:5px;
+}
+
+.m-b6{
+  margin-bottom:6px;
+}
+
+.p-5{
+  padding:5px;
+}
+
+.percent-w40{
+  width: 40%;
+}
+
+.w-80{
+
+}
